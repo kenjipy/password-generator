@@ -1,6 +1,6 @@
 import random
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456!çàù"
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456^¨!è&é@€ù%"
 # This is for your character i added a coppel basic ones you can add more if you want. #
 
 while 1:
