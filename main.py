@@ -1,7 +1,7 @@
 import random
 
-chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456^¨!è&é@€ù%"
-# This is for your character i added a coppel basic ones you can add more if you want. #
+chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789^¨()@!{}"
+
 
 while 1:
     password_len = int(input("what length would you like your password to be : "))
